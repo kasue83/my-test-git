@@ -1,2 +1,1 @@
 version 1
-version 2 - 게시판 추가함
